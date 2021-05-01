@@ -4,4 +4,5 @@ this is sample txt file
 
 1
 
+Bug fixed
 2
