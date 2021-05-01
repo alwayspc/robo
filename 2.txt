@@ -1,4 +1,6 @@
-this is 2nd txt file
+
+
+<<<<<<this is 2nd txt file>>>>>>>>|Accept this Chnge|
 
 
 modified
